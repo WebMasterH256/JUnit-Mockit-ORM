@@ -10,6 +10,7 @@ target/
 .idea/compiler.xml
 .idea/libraries/
 .idea/
+out/
 *.iws
 *.iml
 *.ipr
@@ -38,3 +39,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+persistence.xml
